@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/rd7tech/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rd7tech/azure-network-protocols)
   - [Using DNS with Domain Controller and Client Azure Virtual Machines](https://github.com/rd7tech/DNS-with-Domain-Controller)
-  - [Configuring Network File Shares and Permissions within Active Directory / Azure VMs](https://github.com/rd7tech)
+  - [Configuring Network File Shares and Permissions on Azure VMs](https://github.com/rd7tech/configure-nfs-permissions)
 
     
 <h2>🤳Connect with me:</h2>
